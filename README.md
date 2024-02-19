@@ -2,6 +2,7 @@
 ### Pronouns: She/Her
 ### Currently working on an Unturned Module for a server network
 ### Reach me via discord: \_aikana\_
+![](https://media1.tenor.com/m/xGbzcBL9rVYAAAAC/lucky-star-intro-lucky-star.gif)
 
 <!--
 **ai-kana/ai-kana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
