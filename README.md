@@ -1,4 +1,7 @@
-### Hi there 👋
+### Haii >.<
+# Pronouns: She/Her
+
+# Currently working on an Unturned Modules for a server network
 
 <!--
 **ai-kana/ai-kana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
