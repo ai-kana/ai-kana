@@ -1,5 +1,5 @@
 # Haii >.<
-### Pronouns: She/Her
+### Pronouns: She/It
 ### Currently working on an Unturned Module for a server network
 ### Reach me via discord: \_aikana\_
 ![](https://media1.tenor.com/m/xGbzcBL9rVYAAAAC/lucky-star-intro-lucky-star.gif)
