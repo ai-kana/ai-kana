@@ -1,5 +1,4 @@
 # Haii >.<
-### Reach me via discord: littlefvcktoy
 ![](https://media1.tenor.com/m/xGbzcBL9rVYAAAAC/lucky-star-intro-lucky-star.gif)
 
 <!--
