@@ -1,6 +1,7 @@
 # Haii >.<
 ![](https://media1.tenor.com/m/xGbzcBL9rVYAAAAC/lucky-star-intro-lucky-star.gif)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-kana&layout=compact&theme=dark&count_private=true" />
 <!--
 **ai-kana/ai-kana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
